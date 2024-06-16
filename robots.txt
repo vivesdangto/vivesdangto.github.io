@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vivesdangto.github.io/sitemap
+Sitemap: https://vivesdangto.github.io/app/sitemap
+Sitemap: https://vivesdangto.github.io/assets/sitemap
+Sitemap: https://vivesdangto.github.io/css/sitemap
+Sitemap: https://vivesdangto.github.io/includes/sitemap
+Sitemap: https://vivesdangto.github.io/item/sitemap
+Sitemap: https://vivesdangto.github.io/src/sitemap
